@@ -1,0 +1,9 @@
+criar conta no mongoDB e utilizar o Atlas
+
+npm init -y
+npm install express nodemon mongoose
+
+npm install dotenv
+criar arquivo .env na raiz e adicionar as credenciais:
+DB_USER=USER
+DB_PASSWORD=PASSWORD
